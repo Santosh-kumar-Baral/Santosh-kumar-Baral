@@ -2,7 +2,7 @@
 
 I am a passionate Web Developer, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<Santosh-kumar-Baral>'s Stats](https://github-readme-stats.vercel.app/api?username=Santosh-kumar-Baral&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🚀 About Me
 
@@ -31,6 +31,8 @@ I am a passionate Web Developer, driven by a curiosity for technology and a love
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
+
+![<Santosh-kumar-Baral>'s Stats](https://github-readme-stats.vercel.app/api?username=Santosh-kumar-Baral&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 <!--
