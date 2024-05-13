@@ -1,4 +1,4 @@
-# Hi, I'm Santosh Kumar Baral! 👋
+# Hi, I'm Santosh! 👋
 
 I am a passionate Web Developer, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
