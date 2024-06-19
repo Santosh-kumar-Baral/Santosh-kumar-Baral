@@ -9,7 +9,7 @@ I am a passionate Web Developer, driven by a curiosity for technology and a love
 - 🔭 I'm currently pursuing Advanced Diploma in IT at NSTI Bhubaneswar, Odisha.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,mysql,mongodb,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,react,php,laravel,mysql,mongodb,python,django)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
