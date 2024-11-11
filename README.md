@@ -17,7 +17,7 @@ I am a passionate Web Developer, driven by a curiosity for technology and a love
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
+  - Building server-side applications with NodeJS using MySQL database.
 
 <!--
  ## 🏆 Achievements
