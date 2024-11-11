@@ -27,7 +27,7 @@ I am a passionate Web Developer, driven by a curiosity for technology and a love
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkdin](https://www.linkedin.com/in/santosh-ku-baral)
+- Connect with me on [Linkdin](https://www.linkedin.com/in/santosh-kumar-baral)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
